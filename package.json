@@ -78,18 +78,6 @@
     "stylelint-config-standard": "^29.0.0",
     "uglify-js": "^3.17.4"
   },
-  "peerDependencies": {
-    "react": "^16.8.3",
-    "react-dom": "^16.8.3"
-  },
-  "keywords": [
-    "d3",
-    "react",
-    "visualization",
-    "chart",
-    "es6",
-    "babel"
-  ],
   "nyc": {
     "exclude": [
       "tests/**/*.js",
